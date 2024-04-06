@@ -2,7 +2,7 @@
 - Title: IPL Data Analysis
 - Objective: Utilizing the last 3 years of IPL data to identify the Best Team, top Batsman, Bowler, All-Rounder, Orange Cap and Purple Cap contenders, and predicting the teams with the highest chances of qualification in IPL 2024.
 
-- Tools Used: Power BI Desktop, Microsoft Excel
+- Tools Used: Power BI Desktop, Microsoft Excel,SQL
 
 📈 Key Insights:
 
