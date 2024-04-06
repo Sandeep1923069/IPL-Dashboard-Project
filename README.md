@@ -1,3 +1,60 @@
+🔍 Project Overview:
+- Title: IPL Data Analysis
+- Objective: Utilizing the last 3 years of IPL data to identify the Best Team, top Batsman, Bowler, All-Rounder, Orange Cap and Purple Cap contenders, and predicting the teams with the highest chances of qualification in IPL 2024.
+
+- Tools Used: Power BI Desktop, Microsoft Excel
+
+📈 Key Insights:
+
+🏆 Top Teams by Winning Percentage:
+ 1. GT - 70%
+ 2. LSG - 59%
+ 3. CSK - 56%
+ 4. RCB - 56%
+
+🏏 Top 3 Batsmen by Runs:
+ 1. Shubman Gill - 1851 runs
+ 2. Faf du Plessis - 1831 runs
+ 3. Ruturaj Gaikwad - 1593 runs
+
+🎯 Top 3 Bowlers by Wickets:
+ 1. Mohammad Shami - 67 wickets
+ 2. Yuzvendra Chahal - 66 wickets 
+ 3. Harshal Patel - 65 wickets
+
+🌟 Top 3 All-Rounders (Minimum 500 runs and 25 wickets):
+ 1. Andre Russell - 745 runs, 35 wickets
+ 2. Ravindra Jadeja - 533 runs, 37 wickets
+ 3. Axar Patel - 505 runs, 30 wickets
+
+💥 Top 3 Hitters (Minimum Balls Played 200):
+ 1. Tim David - 178 Strike Rate
+ 2. Heinrich Klaasen - 177 Strike Rate
+ 3. Liam Livingstone - 168 Strike Rate
+
+🏏 Best Playing 11 based on last three years Data:
+ 1. Faf du Plessis
+ 2. Shubman Gill
+ 3. Suryakumar Yadav
+ 4. Glenn Maxwell
+ 5. Sanju Samson (WK) (c)
+ 6. David Miller
+ 7. Axar Patel
+ 8. Rashid Khan
+ 9. Jasprit Bumrah
+ 10. Mohammed Shami
+ 11. Yuzvendra Chahal
+
+🔮 Predictions for IPL 2024:
+ - Top 2 Orange Cap Contenders: Yashasvi Jaiswal, Shubman Gill
+ - Top 2 Purple Cap Contenders: yuzvendra chahal, Arshdeep Singh
+ - Top 4 Teams to Qualify: CSK, MI, LSG, GT/RCB
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Overview
 
 
